@@ -1,0 +1,47 @@
+---
+title: Tinguá
+title_type: repository
+id: 589RCH5M+24P
+spatial:
+- type: site
+  location:
+    lat: -22.592421
+    lon: -43.41718
+  srsName:
+    type: uri
+    refid: http://www.opengis.net/def/crs/EPSG/0/4326
+    display: EPSG:4326 WGS84
+  source:
+    type: corporate
+    display: IBGE
+    term:
+      type: uri
+      refid: https://www.wikidata.org/wiki/Q268072
+      display: Instituto Brasileiro de Geografia e Estatística
+repository:
+- type: site
+  display: Nova Iguaçu
+  part_of:
+    type: site
+    display: Rio de Janeiro
+    id:
+      type: uri
+      display: RJ
+      refid: https://www.wikidata.org/wiki/Q41428
+    part_of:
+      type: site
+      display: Brasil
+      id:
+        type: uri
+        display: BR
+        refid: https://www.wikidata.org/wiki/Q155
+work_type:
+  context:
+    type: uri
+    refid: https://www.wikidata.org/wiki/Q486972
+    display: sítio habitado
+  function:
+    type: uri
+    refid: https://www.wikidata.org/wiki/Q98929991
+    display: lugar
+---
