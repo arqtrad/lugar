@@ -1,12 +1,14 @@
 ---
 title: Santa Cruz
 title_type: repository
-id: 676WCWHC+VPH
+id: 675WQ348+GW5
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -5.570324
-    lon: -61.078128
+    lat: -6.243748
+    lon: -61.932628
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

@@ -1,12 +1,14 @@
 ---
 title: Agrovila do PA São Sebastião
 title_type: repository
-id: 69667GC6+C6C
+id: 69667FMJ+55H
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -5.728942
-    lon: -35.489493
+    lat: -5.717057
+    lon: -35.519528
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -49,8 +51,8 @@ identifiers:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

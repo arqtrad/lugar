@@ -1,12 +1,14 @@
 ---
 title: Agrovila do PA São Pedro
 title_type: repository
-id: 6965CWRQ+3XH
+id: 6965CWXP+56F
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -5.559817
-    lon: -36.060031
+    lat: -5.552075
+    lon: -36.064449
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,7 +40,7 @@ repository:
 identifiers:
 - term:
     type: local
-    refid: '240960505000005'
+    refid: '240960505000004'
   source:
     type: corporate
     display: IBGE
@@ -49,8 +51,8 @@ identifiers:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

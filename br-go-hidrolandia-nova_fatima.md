@@ -1,12 +1,14 @@
 ---
 title: Nova Fátima
 title_type: repository
-id: 58MG4PGF+PR4
+id: 58MG3MRC+MRP
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -16.873249
-    lon: -49.275417
+    lat: -16.908278
+    lon: -49.327925
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q532
+    display: povoado
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

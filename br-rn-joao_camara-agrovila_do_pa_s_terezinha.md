@@ -1,12 +1,14 @@
 ---
 title: Agrovila do PA Santa Terezinha
 title_type: repository
-id: 6966F3GW+5XW
+id: 6966F4C2+XX5
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -5.524525
-    lon: -35.902546
+    lat: -5.527611
+    lon: -35.897518
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,7 +40,7 @@ repository:
 identifiers:
 - term:
     type: local
-    refid: '240580105000049'
+    refid: '240580105000035'
   source:
     type: corporate
     display: IBGE
@@ -49,8 +51,8 @@ identifiers:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

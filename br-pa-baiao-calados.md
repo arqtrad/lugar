@@ -2,6 +2,8 @@
 title: Calados
 title_type: repository
 id: 689G38WQ+7WJ
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

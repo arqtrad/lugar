@@ -1,12 +1,14 @@
 ---
 title: Santo Antônio
 title_type: repository
-id: 68HF2WHH+F4F
+id: 68GFC39X+X25
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: 1.028695
-    lon: -50.07221
+    lat: 0.419875
+    lon: -50.902395
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q532
+    display: povoado
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

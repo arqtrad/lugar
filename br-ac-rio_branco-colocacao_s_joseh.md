@@ -1,12 +1,14 @@
 ---
 title: Colocação São José
 title_type: repository
-id: 57XJX958+MPX
+id: 57XHWXWH+R7P
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -10.040759
-    lon: -67.633147
+    lat: -10.052911
+    lon: -68.021793
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

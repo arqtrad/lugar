@@ -1,12 +1,14 @@
 ---
 title: Bandarra
 title_type: repository
-id: 58QW4572+VV6
+id: 58QW4476+JXW
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -14.885339
-    lon: -41.847861
+    lat: -14.885894
+    lon: -41.887558
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q532
+    display: povoado
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

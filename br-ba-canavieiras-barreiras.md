@@ -1,12 +1,14 @@
 ---
 title: Barreiras
 title_type: repository
-id: 59P2FV86+JP5
+id: 59P29RVQ+CHG
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -15.533494
-    lon: -39.138138
+    lat: -15.606448
+    lon: -39.161033
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q532
+    display: povoado
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

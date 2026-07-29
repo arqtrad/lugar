@@ -1,12 +1,14 @@
 ---
 title: Terra Vermelha
 title_type: repository
-id: 677RM4XX+W37
+id: 677R8HHX+CC7
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -4.300208
-    lon: -63.85234
+    lat: -4.671461
+    lon: -63.401467
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

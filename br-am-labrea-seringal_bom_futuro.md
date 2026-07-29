@@ -1,12 +1,14 @@
 ---
 title: Seringal Bom Futuro
 title_type: repository
-id: 674PHPCC+4RP
+id: 673PVVMR+CF3
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -7.429653
-    lon: -65.277913
+    lat: -8.116482
+    lon: -65.108817
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

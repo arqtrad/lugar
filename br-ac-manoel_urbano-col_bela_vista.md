@@ -1,12 +1,14 @@
 ---
 title: Col. Bela Vista
 title_type: repository
-id: 673G5JPH+6RF
+id: 673G7P4G+7W7
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -8.814441
-    lon: -69.370457
+    lat: -8.74433
+    lon: -69.27269
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

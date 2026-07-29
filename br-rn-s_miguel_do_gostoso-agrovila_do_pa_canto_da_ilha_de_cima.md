@@ -1,12 +1,14 @@
 ---
 title: Agrovila do PA Canto da Ilha de Cima
 title_type: repository
-id: 6966V6X5+4CV
+id: 6966V6VM+7CP
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -5.10214
-    lon: -35.791441
+    lat: -5.106786
+    lon: -35.766429
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,7 +40,7 @@ repository:
 identifiers:
 - term:
     type: local
-    refid: '241255905000015'
+    refid: '241255905000012'
   source:
     type: corporate
     display: IBGE
@@ -49,8 +51,8 @@ identifiers:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

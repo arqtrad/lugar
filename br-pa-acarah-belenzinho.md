@@ -1,12 +1,14 @@
 ---
 title: Belenzinho
 title_type: repository
-id: 68CH7R22+59W
+id: 68CH3WF8+G2R
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -1.749504
-    lon: -48.199058
+    lat: -1.92615
+    lon: -48.084983
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

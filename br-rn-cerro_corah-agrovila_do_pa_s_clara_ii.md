@@ -1,12 +1,14 @@
 ---
 title: Agrovila do PA Santa Clara II
 title_type: repository
-id: 6955WJVJ+392
+id: 6955WJW5+52J
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -6.057374
-    lon: -36.369105
+    lat: -6.054531
+    lon: -36.39249
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -49,8 +51,8 @@ identifiers:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q532
+    display: povoado
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

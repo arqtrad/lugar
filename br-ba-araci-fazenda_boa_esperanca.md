@@ -2,6 +2,8 @@
 title: Fazenda Boa Esperança
 title_type: repository
 id: 59W3J5C5+6PR
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q3257686
+    display: núcleo
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

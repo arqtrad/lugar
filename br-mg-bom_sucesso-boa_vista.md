@@ -2,6 +2,8 @@
 title: Boa Vista
 title_type: repository
 id: 58CQX8QJ+RX5
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
@@ -49,7 +51,7 @@ identifiers:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
+    refid: https://www.wikidata.org/wiki/Q10354598
     display: sítio habitado
   function:
     type: uri

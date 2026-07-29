@@ -1,12 +1,14 @@
 ---
 title: Santa Maria
 title_type: repository
-id: 67CRXGPQ+WXX
+id: 67FQ76M4+V8P
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -1.012631
-    lon: -63.460008
+    lat: -0.715294
+    lon: -64.794185
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

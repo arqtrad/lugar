@@ -1,12 +1,14 @@
 ---
 title: Baixinha
 title_type: repository
-id: 58QW8Q4G+5R8
+id: 58QW7QJH+23M
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -14.694594
-    lon: -41.22293
+    lat: -14.719905
+    lon: -41.222338
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q532
+    display: povoado
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

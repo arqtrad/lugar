@@ -1,12 +1,14 @@
 ---
 title: Acarí
 title_type: repository
-id: 69546CCJ+CFW
+id: 69546C79+84X
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -6.778881
-    lon: -37.56879
+    lat: -6.786633
+    lon: -37.582137
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -35,11 +37,22 @@ repository:
         type: uri
         display: BR
         refid: https://www.wikidata.org/wiki/Q155
+identifiers:
+- term:
+    type: local
+    refid: '250550100003'
+  source:
+    type: corporate
+    display: IBGE
+    term:
+      type: uri
+      refid: https://www.wikidata.org/wiki/Q268072
+      display: IBGE, base cartográfica 1:250.000 2026-03-03
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q532
+    display: povoado
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

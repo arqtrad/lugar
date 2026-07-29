@@ -1,12 +1,14 @@
 ---
 title: Loteamento Jardim Ana Maria
 title_type: repository
-id: 588MW6WJ+2PQ
+id: 588MW5P3+WQ8
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -23.054925
-    lon: -46.768135
+    lat: -23.062724
+    lon: -46.845536
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

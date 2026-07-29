@@ -1,12 +1,14 @@
 ---
 title: Mari Mari
 title_type: repository
-id: 679JPV4J+6HQ
+id: 679MVGG7+C8F
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -2.294409
-    lon: -67.118518
+    lat: -2.123934
+    lon: -66.486717
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

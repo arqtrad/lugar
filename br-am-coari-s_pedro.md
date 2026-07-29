@@ -1,12 +1,14 @@
 ---
 title: São Pedro
 title_type: repository
-id: 678R542M+C95
+id: 678R3V4C+F4G
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -3.848984
-    lon: -63.866529
+    lat: -3.943817
+    lon: -63.129683
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q532
+    display: povoado
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

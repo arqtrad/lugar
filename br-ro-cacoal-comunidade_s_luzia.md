@@ -1,12 +1,14 @@
 ---
 title: Comunidade Santa Luzia
 title_type: repository
-id: 57WWM75G+GXM
+id: 57WWG88M+4FG
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
-    lat: -11.341172
-    lon: -61.722588
+    lat: -11.48469
+    lon: -61.666282
   srsName:
     type: uri
     refid: http://www.opengis.net/def/crs/EPSG/0/4326
@@ -38,8 +40,8 @@ repository:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q10354598
+    display: outros aglomerados rurais isolados
   function:
     type: uri
     refid: https://www.wikidata.org/wiki/Q98929991

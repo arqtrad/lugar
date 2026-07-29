@@ -2,6 +2,8 @@
 title: Vila Flores
 title_type: repository
 id: 583C4CQX+6GP
+date: 2026-07-29
+author: 0000-0002-0187-774X
 spatial:
 - type: site
   location:
@@ -49,10 +51,10 @@ identifiers:
 work_type:
   context:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q486972
-    display: sítio habitado
+    refid: https://www.wikidata.org/wiki/Q515
+    display: cidade
   function:
     type: uri
-    refid: https://www.wikidata.org/wiki/Q98929991
-    display: lugar
+    refid: https://www.wikidata.org/wiki/Q15303838
+    display: sede de município
 ---
