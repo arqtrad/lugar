@@ -5,21 +5,21 @@ id: 679MCJXJ+GC3
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:
-- type: site
-  location:
-    lat: -2.55123
-    lon: -66.368959
-  srsName:
-    type: uri
-    refid: http://www.opengis.net/def/crs/EPSG/0/4326
-    display: EPSG:4326 WGS84
-  source:
-    type: corporate
-    display: IBGE
-    term:
+  site:
+    location:
+      lat: -2.55123
+      lon: -66.368959
+    srsName:
       type: uri
-      refid: https://www.wikidata.org/wiki/Q268072
-      display: Instituto Brasileiro de Geografia e Estatística
+      refid: http://www.opengis.net/def/crs/EPSG/0/4326
+      display: EPSG:4326 WGS84
+    source:
+      type: corporate
+      display: IBGE
+      term:
+        type: uri
+        refid: https://www.wikidata.org/wiki/Q268072
+        display: Instituto Brasileiro de Geografia e Estatística
 repository:
 - type: site
   display: Fonte Boa

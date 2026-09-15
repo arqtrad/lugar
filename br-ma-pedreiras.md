@@ -5,21 +5,21 @@ id: 687QCCH2+G99
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:
-- type: site
-  location:
-    lat: -4.571211
-    lon: -44.599029
-  srsName:
-    type: uri
-    refid: http://www.opengis.net/def/crs/EPSG/0/4326
-    display: EPSG:4326 WGS84
-  source:
-    type: corporate
-    display: IBGE
-    term:
+  site:
+    location:
+      lat: -4.571211
+      lon: -44.599029
+    srsName:
       type: uri
-      refid: https://www.wikidata.org/wiki/Q268072
-      display: Instituto Brasileiro de Geografia e Estatística
+      refid: http://www.opengis.net/def/crs/EPSG/0/4326
+      display: EPSG:4326 WGS84
+    source:
+      type: corporate
+      display: IBGE
+      term:
+        type: uri
+        refid: https://www.wikidata.org/wiki/Q268072
+        display: Instituto Brasileiro de Geografia e Estatística
 repository:
 - type: site
   display: Pedreiras

@@ -5,21 +5,21 @@ id: 58FGHM99+232
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:
-- type: site
-  location:
-    lat: -20.432495
-    lon: -49.33236
-  srsName:
-    type: uri
-    refid: http://www.opengis.net/def/crs/EPSG/0/4326
-    display: EPSG:4326 WGS84
-  source:
-    type: corporate
-    display: IBGE
-    term:
+  site:
+    location:
+      lat: -20.432495
+      lon: -49.33236
+    srsName:
       type: uri
-      refid: https://www.wikidata.org/wiki/Q268072
-      display: Instituto Brasileiro de Geografia e Estatística
+      refid: http://www.opengis.net/def/crs/EPSG/0/4326
+      display: EPSG:4326 WGS84
+    source:
+      type: corporate
+      display: IBGE
+      term:
+        type: uri
+        refid: https://www.wikidata.org/wiki/Q268072
+        display: Instituto Brasileiro de Geografia e Estatística
 repository:
 - type: site
   display: Nova Granada
