@@ -1,7 +1,7 @@
 ---
 title: Manoel da Nobrega
 title_type: repository
-id: 587JQPF7+5Q9
+id: 587JQPF7+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

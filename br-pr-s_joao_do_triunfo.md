@@ -1,7 +1,7 @@
 ---
 title: São João do Triunfo
 title_type: repository
-id: 586F8P82+69W
+id: 586F8P82+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

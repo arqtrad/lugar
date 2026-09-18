@@ -1,7 +1,7 @@
 ---
 title: Nova Verona
 title_type: repository
-id: 58HX6JWX+X53
+id: 58HX6JWX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

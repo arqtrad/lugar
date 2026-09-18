@@ -1,7 +1,7 @@
 ---
 title: Lagoa Doce
 title_type: repository
-id: 59W3GJ93+5H6
+id: 59W3GJ93+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

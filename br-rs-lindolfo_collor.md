@@ -1,7 +1,7 @@
 ---
 title: Lindolfo Collor
 title_type: repository
-id: 582CCQ3R+6C2
+id: 582CCQ3R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

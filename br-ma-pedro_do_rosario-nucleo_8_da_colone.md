@@ -1,7 +1,7 @@
 ---
 title: Núcleo 8 da Colone
 title_type: repository
-id: 689P29VM+CM4
+id: 689P29VM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

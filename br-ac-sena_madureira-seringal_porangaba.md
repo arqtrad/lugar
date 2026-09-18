@@ -1,7 +1,7 @@
 ---
 title: Seringal Porangaba
 title_type: repository
-id: 672H2277+VV2
+id: 672H2277+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

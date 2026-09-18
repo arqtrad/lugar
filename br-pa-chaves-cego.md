@@ -1,7 +1,7 @@
 ---
 title: Cego
 title_type: repository
-id: 68FGP2W4+8PG
+id: 68FGP2W4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

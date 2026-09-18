@@ -1,7 +1,7 @@
 ---
 title: Comunidade de Rio Pardo
 title_type: repository
-id: 58PPFR95+H3P
+id: 58PPFR95+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

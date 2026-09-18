@@ -1,7 +1,7 @@
 ---
 title: São Miguel do Anta
 title_type: repository
-id: 58FV77VJ+Q3P
+id: 58FV77VJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Jericó
 title_type: repository
-id: 677RM5FQ+7RQ
+id: 677RM5FQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

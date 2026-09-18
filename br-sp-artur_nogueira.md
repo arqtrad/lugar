@@ -1,7 +1,7 @@
 ---
 title: Artur Nogueira
 title_type: repository
-id: 589JCRGG+RR2
+id: 589JCRGG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

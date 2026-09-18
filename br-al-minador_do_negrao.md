@@ -1,7 +1,7 @@
 ---
 title: Minador do Negrão
 title_type: repository
-id: 6925M4RM+VHP
+id: 6925M4RM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Itaúna
 title_type: repository
-id: 679P225G+X68
+id: 679P225G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

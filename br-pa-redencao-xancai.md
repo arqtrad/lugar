@@ -1,7 +1,7 @@
 ---
 title: Xancai
 title_type: repository
-id: 684F2V2F+R2X
+id: 684F2V2F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

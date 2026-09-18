@@ -1,7 +1,7 @@
 ---
 title: Sidrolândia
 title_type: repository
-id: 58F7329H+VRR
+id: 58F7329H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

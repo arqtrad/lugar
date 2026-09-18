@@ -1,7 +1,7 @@
 ---
 title: Mina Barra Verde
 title_type: repository
-id: 6955MFC2+27P
+id: 6955MFC2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

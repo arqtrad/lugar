@@ -1,7 +1,7 @@
 ---
 title: São Gotardo
 title_type: repository
-id: 58GMMXP2+9C7
+id: 58GMMXP2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

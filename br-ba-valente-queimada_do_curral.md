@@ -1,7 +1,7 @@
 ---
 title: Queimada do Curral
 title_type: repository
-id: 59W2HMW5+73C
+id: 59W2HMW5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

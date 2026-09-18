@@ -1,7 +1,7 @@
 ---
 title: Col. Reduto
 title_type: repository
-id: 57XH9JPJ+833
+id: 57XH9JPJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

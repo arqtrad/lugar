@@ -1,7 +1,7 @@
 ---
 title: Pedra do Indaiá
 title_type: repository
-id: 58FPPQRR+RC2
+id: 58FPPQRR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

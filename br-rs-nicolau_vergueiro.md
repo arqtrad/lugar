@@ -1,7 +1,7 @@
 ---
 title: Nicolau Vergueiro
 title_type: repository
-id: 5839FG7P+GXW
+id: 5839FG7P+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

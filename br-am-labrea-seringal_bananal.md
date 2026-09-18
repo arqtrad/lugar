@@ -1,7 +1,7 @@
 ---
 title: Seringal Bananal
 title_type: repository
-id: 674PJVWH+WC2
+id: 674PJVWH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

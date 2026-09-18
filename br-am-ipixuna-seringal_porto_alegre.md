@@ -1,7 +1,7 @@
 ---
 title: Seringal Porto Alegre
 title_type: repository
-id: 674CV8JJ+XWJ
+id: 674CV8JJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

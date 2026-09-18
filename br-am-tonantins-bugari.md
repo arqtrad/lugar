@@ -1,7 +1,7 @@
 ---
 title: Bugari
 title_type: repository
-id: 679J9RRJ+2CG
+id: 679J9RRJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

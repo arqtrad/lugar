@@ -1,7 +1,7 @@
 ---
 title: Pereiros
 title_type: repository
-id: 69538MJX+27M
+id: 69538MJX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

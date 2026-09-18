@@ -1,7 +1,7 @@
 ---
 title: Santa Maria Goretti
 title_type: repository
-id: 6944QHMX+5VW
+id: 6944QHMX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Ganhamucu
 title_type: repository
-id: 68FGH4Q5+J82
+id: 68FGH4Q5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

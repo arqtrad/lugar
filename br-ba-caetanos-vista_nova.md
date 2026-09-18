@@ -1,7 +1,7 @@
 ---
 title: Vista Nova
 title_type: repository
-id: 58QWHWQG+X44
+id: 58QWHWQG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Castelo dos Sonhos
 title_type: repository
-id: 6836MWP2+CH6
+id: 6836MWP2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

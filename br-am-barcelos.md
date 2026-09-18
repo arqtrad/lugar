@@ -1,7 +1,7 @@
 ---
 title: Barcelos
 title_type: repository
-id: 67FV23FC+PX4
+id: 67FV23FC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

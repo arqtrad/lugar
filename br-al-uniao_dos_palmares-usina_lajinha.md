@@ -1,7 +1,7 @@
 ---
 title: Usina Lajinha
 title_type: repository
-id: 6925RX84+H38
+id: 6925RX84+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

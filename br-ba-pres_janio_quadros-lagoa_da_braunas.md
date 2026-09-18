@@ -1,7 +1,7 @@
 ---
 title: Lagoa da Braúnas
 title_type: repository
-id: 58QW7769+XH3
+id: 58QW7769+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

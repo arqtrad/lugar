@@ -1,7 +1,7 @@
 ---
 title: Pari
 title_type: repository
-id: 588MF9CJ+P7Q
+id: 588MF9CJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

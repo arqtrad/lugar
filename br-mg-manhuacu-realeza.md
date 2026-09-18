@@ -1,7 +1,7 @@
 ---
 title: Realeza
 title_type: repository
-id: 58FVQV32+V9C
+id: 58FVQV32+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

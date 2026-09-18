@@ -1,7 +1,7 @@
 ---
 title: Ponta do Papo Amarelo
 title_type: repository
-id: 68GF9P54+GFC
+id: 68GF9P54+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

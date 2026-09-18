@@ -1,7 +1,7 @@
 ---
 title: Cocal
 title_type: repository
-id: 58MQ28MC+694
+id: 58MQ28MC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: São Geraldo do Salto
 title_type: repository
-id: 58HQ8257+JPW
+id: 58HQ8257+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

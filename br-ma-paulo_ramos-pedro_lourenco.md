@@ -1,7 +1,7 @@
 ---
 title: Pedro Lourenço
 title_type: repository
-id: 687PGVVC+92X
+id: 687PGVVC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

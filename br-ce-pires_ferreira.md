@@ -1,7 +1,7 @@
 ---
 title: Pires Ferreira
 title_type: repository
-id: 687XQ943+27R
+id: 687XQ943+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

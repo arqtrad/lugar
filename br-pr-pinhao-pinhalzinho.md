@@ -1,7 +1,7 @@
 ---
 title: Pinhalzinho
 title_type: repository
-id: 586C3JW6+48P
+id: 586C3JW6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

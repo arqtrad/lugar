@@ -1,7 +1,7 @@
 ---
 title: Novo Horizonte
 title_type: repository
-id: 58WV47MH+6P7
+id: 58WV47MH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

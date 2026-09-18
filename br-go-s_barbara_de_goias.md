@@ -1,7 +1,7 @@
 ---
 title: Santa Bárbara de Goiás
 title_type: repository
-id: 58MGC7CX+C9W
+id: 58MGC7CX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

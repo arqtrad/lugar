@@ -1,7 +1,7 @@
 ---
 title: Orocó
 title_type: repository
-id: 69329CJ2+X38
+id: 69329CJ2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

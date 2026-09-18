@@ -1,7 +1,7 @@
 ---
 title: Seringal São Miguel
 title_type: repository
-id: 673JMJP8+W8R
+id: 673JMJP8+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

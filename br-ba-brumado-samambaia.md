@@ -1,7 +1,7 @@
 ---
 title: Samambaia
 title_type: repository
-id: 58QWR25P+HV7
+id: 58QWR25P+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

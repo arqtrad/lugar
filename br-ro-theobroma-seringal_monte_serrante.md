@@ -1,7 +1,7 @@
 ---
 title: Seringal Monte Serrante
 title_type: repository
-id: 57XVQRJG+JJP
+id: 57XVQRJG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

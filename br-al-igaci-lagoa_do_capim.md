@@ -1,7 +1,7 @@
 ---
 title: Lagoa do Capim
 title_type: repository
-id: 6925FCMP+8MF
+id: 6925FCMP+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

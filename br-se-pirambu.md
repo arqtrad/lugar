@@ -1,7 +1,7 @@
 ---
 title: Pirambu
 title_type: repository
-id: 59X5747X+5H4
+id: 59X5747X+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

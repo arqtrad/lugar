@@ -1,7 +1,7 @@
 ---
 title: Pedro do Rio
 title_type: repository
-id: 589RMV88+C7V
+id: 589RMV88+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

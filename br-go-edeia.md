@@ -1,7 +1,7 @@
 ---
 title: Edéia
 title_type: repository
-id: 58JGM36G+29F
+id: 58JGM36G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

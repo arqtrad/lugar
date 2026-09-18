@@ -1,7 +1,7 @@
 ---
 title: Bom Amigo
 title_type: repository
-id: 68HF5WPF+6GJ
+id: 68HF5WPF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

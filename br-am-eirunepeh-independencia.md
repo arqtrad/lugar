@@ -1,7 +1,7 @@
 ---
 title: Independência
 title_type: repository
-id: 674FP2JG+4CP
+id: 674FP2JG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

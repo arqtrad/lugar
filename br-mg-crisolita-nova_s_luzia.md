@@ -1,7 +1,7 @@
 ---
 title: Nova Santa Luzia
 title_type: repository
-id: 58JWPWC6+MH4
+id: 58JWPWC6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

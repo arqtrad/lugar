@@ -1,7 +1,7 @@
 ---
 title: Núcleo Colonial Pio XII (São Gerônimo)
 title_type: repository
-id: 6973W79W+C9V
+id: 6973W79W+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

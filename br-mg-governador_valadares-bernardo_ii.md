@@ -1,7 +1,7 @@
 ---
 title: Bernardo II
 title_type: repository
-id: 58HV5RMH+3XX
+id: 58HV5RMH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

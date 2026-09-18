@@ -1,7 +1,7 @@
 ---
 title: Balneario Condomini Capivari
 title_type: repository
-id: 58CQR47W+66R
+id: 58CQR47W+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

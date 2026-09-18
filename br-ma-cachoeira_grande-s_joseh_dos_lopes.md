@@ -1,7 +1,7 @@
 ---
 title: São José dos Lopes
 title_type: repository
-id: 689R2273+Q25
+id: 689R2273+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

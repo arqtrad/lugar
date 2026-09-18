@@ -1,7 +1,7 @@
 ---
 title: Só Frango - Filial 8150
 title_type: repository
-id: 58PH4RCV+GVW
+id: 58PH4RCV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

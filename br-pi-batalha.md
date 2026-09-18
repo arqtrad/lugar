@@ -1,7 +1,7 @@
 ---
 title: Batalha
 title_type: repository
-id: 687VXWH7+QG4
+id: 687VXWH7+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Novo Oriente do Piauí
 title_type: repository
-id: 685WH329+HW9
+id: 685WH329+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

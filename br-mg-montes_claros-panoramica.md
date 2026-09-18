@@ -1,7 +1,7 @@
 ---
 title: Panorâmica
 title_type: repository
-id: 58MRJ2G3+P8X
+id: 58MRJ2G3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Bom Sucesso
 title_type: repository
-id: 6954H33C+C38
+id: 6954H33C+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

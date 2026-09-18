@@ -1,7 +1,7 @@
 ---
 title: Seringal Boca dos Perdidos
 title_type: repository
-id: 673PQ8H8+MJ4
+id: 673PQ8H8+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

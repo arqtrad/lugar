@@ -1,7 +1,7 @@
 ---
 title: Conquista
 title_type: repository
-id: 689HVG5H+W43
+id: 689HVG5H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

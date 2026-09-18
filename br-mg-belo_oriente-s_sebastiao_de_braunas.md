@@ -1,7 +1,7 @@
 ---
 title: São Sebastião de Braúnas
 title_type: repository
-id: 58GVQH42+H32
+id: 58GVQH42+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

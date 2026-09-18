@@ -1,7 +1,7 @@
 ---
 title: Nova Glória
 title_type: repository
-id: 58VQ2WPG+J89
+id: 58VQ2WPG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

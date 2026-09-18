@@ -1,7 +1,7 @@
 ---
 title: Píndaíbas
 title_type: repository
-id: 58GQCCR2+6C4
+id: 58GQCCR2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

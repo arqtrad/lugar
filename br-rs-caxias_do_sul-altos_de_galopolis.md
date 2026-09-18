@@ -1,7 +1,7 @@
 ---
 title: Altos de Galópolis
 title_type: repository
-id: 582CQV59+XQ9
+id: 582CQV59+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

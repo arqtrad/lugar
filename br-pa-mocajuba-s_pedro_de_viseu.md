@@ -1,7 +1,7 @@
 ---
 title: São Pedro de Viseu
 title_type: repository
-id: 689GFC7V+GV7
+id: 689GFC7V+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

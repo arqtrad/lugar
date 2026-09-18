@@ -1,7 +1,7 @@
 ---
 title: Gália
 title_type: repository
-id: 589GPC5W+JR2
+id: 589GPC5W+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

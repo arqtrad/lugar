@@ -1,7 +1,7 @@
 ---
 title: Nova Zelândia
 title_type: repository
-id: 58JXMWQQ+PMM
+id: 58JXMWQQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

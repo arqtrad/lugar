@@ -1,7 +1,7 @@
 ---
 title: Manaus
 title_type: repository
-id: 678XVXXF+3Q5
+id: 678XVXXF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

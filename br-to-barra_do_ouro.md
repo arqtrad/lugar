@@ -1,7 +1,7 @@
 ---
 title: Barra do Ouro
 title_type: repository
-id: 684J78MG+PC9
+id: 684J78MG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

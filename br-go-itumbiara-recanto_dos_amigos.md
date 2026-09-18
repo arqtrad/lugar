@@ -1,7 +1,7 @@
 ---
 title: Recanto dos Amigos
 title_type: repository
-id: 58HGJWVG+6Q6
+id: 58HGJWVG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

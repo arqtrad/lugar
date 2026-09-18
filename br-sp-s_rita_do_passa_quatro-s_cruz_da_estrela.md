@@ -1,7 +1,7 @@
 ---
 title: Santa Cruz da Estrela
 title_type: repository
-id: 58CJ6MW5+7J4
+id: 58CJ6MW5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

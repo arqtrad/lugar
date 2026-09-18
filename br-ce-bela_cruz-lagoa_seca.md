@@ -1,7 +1,7 @@
 ---
 title: Lagoa Seca
 title_type: repository
-id: 689X2R45+FXH
+id: 689X2R45+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

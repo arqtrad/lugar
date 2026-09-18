@@ -1,7 +1,7 @@
 ---
 title: Coimbra
 title_type: repository
-id: 58376HC5+G8W
+id: 58376HC5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

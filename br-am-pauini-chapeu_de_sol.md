@@ -1,7 +1,7 @@
 ---
 title: Chapéu-de-Sol
 title_type: repository
-id: 674GCM53+8HR
+id: 674GCM53+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

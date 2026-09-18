@@ -1,7 +1,7 @@
 ---
 title: Jardim do Seridó
 title_type: repository
-id: 6955C67F+PCH
+id: 6955C67F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

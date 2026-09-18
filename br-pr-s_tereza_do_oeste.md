@@ -1,7 +1,7 @@
 ---
 title: Santa Tereza do Oeste
 title_type: repository
-id: 5868W9XM+GF5
+id: 5868W9XM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Vertente
 title_type: repository
-id: 687PJV3X+M73
+id: 687PJV3X+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Seringal Boca do Ituxi
 title_type: repository
-id: 674QM4QW+QMJ
+id: 674QM4QW+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

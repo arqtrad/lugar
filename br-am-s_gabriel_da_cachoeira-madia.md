@@ -1,7 +1,7 @@
 ---
 title: Madia
 title_type: repository
-id: 67GJWX8Q+8XG
+id: 67GJWX8Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

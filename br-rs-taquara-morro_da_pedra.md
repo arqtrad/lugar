@@ -1,7 +1,7 @@
 ---
 title: Morro da Pedra
 title_type: repository
-id: 582F8423+9X3
+id: 582F8423+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

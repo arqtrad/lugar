@@ -1,7 +1,7 @@
 ---
 title: Palmares I
 title_type: repository
-id: 686G2435+FPG
+id: 686G2435+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

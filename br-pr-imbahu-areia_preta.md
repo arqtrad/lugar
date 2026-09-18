@@ -1,7 +1,7 @@
 ---
 title: Areia Preta
 title_type: repository
-id: 587FJ6FH+76C
+id: 587FJ6FH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

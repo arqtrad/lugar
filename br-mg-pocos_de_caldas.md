@@ -1,7 +1,7 @@
 ---
 title: Poços de Caldas
 title_type: repository
-id: 58CM6C6Q+RJ2
+id: 58CM6C6Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

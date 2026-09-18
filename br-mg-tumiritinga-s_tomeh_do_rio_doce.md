@@ -1,7 +1,7 @@
 ---
 title: São Tomé do Rio Doce
 title_type: repository
-id: 58GWXFQ3+323
+id: 58GWXFQ3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

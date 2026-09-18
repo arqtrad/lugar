@@ -1,7 +1,7 @@
 ---
 title: Agrovila do PA Pedra Imã
 title_type: repository
-id: 69367HCH+47M
+id: 69367HCH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

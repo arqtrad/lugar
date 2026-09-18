@@ -1,7 +1,7 @@
 ---
 title: Santo Antônio do Itambé
 title_type: repository
-id: 58HRGMMV+J55
+id: 58HRGMMV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

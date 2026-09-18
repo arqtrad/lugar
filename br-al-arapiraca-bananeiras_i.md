@@ -1,7 +1,7 @@
 ---
 title: Bananeiras I
 title_type: repository
-id: 69255C4M+MMG
+id: 69255C4M+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

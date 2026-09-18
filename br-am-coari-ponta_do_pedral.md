@@ -1,7 +1,7 @@
 ---
 title: Ponta do Pedral
 title_type: repository
-id: 677RJRVW+H4Q
+id: 677RJRVW+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

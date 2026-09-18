@@ -1,7 +1,7 @@
 ---
 title: Solta
 title_type: repository
-id: 687Q24GW+5XQ
+id: 687Q24GW+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

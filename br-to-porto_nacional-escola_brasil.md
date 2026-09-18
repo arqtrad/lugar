@@ -1,7 +1,7 @@
 ---
 title: Escola Brasil
 title_type: repository
-id: 58XH8F76+X8J
+id: 58XH8F76+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

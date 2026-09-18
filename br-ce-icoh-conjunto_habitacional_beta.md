@@ -1,7 +1,7 @@
 ---
 title: Conjunto Habitacional Beta
 title_type: repository
-id: 6953H3VW+3PV
+id: 6953H3VW+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

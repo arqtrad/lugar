@@ -1,7 +1,7 @@
 ---
 title: Angical
 title_type: repository
-id: 686X548M+7W2
+id: 686X548M+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

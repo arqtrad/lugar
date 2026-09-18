@@ -1,7 +1,7 @@
 ---
 title: Atravessado
 title_type: repository
-id: 677VWM7V+G5P
+id: 677VWM7V+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

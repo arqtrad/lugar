@@ -1,7 +1,7 @@
 ---
 title: Anta
 title_type: repository
-id: 689P3MRG+H62
+id: 689P3MRG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

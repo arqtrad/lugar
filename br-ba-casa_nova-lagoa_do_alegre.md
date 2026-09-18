@@ -1,7 +1,7 @@
 ---
 title: Lagoa do Alegre
 title_type: repository
-id: 682WV8X6+2V7
+id: 682WV8X6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

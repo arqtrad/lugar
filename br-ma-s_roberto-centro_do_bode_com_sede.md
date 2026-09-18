@@ -1,7 +1,7 @@
 ---
 title: Centro do Bode com Sede
 title_type: repository
-id: 686PXXJP+F7X
+id: 686PXXJP+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

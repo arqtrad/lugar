@@ -1,7 +1,7 @@
 ---
 title: Caponga
 title_type: repository
-id: 6973XR52+CW2
+id: 6973XR52+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

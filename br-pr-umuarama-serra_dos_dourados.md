@@ -1,7 +1,7 @@
 ---
 title: Serra dos Dourados
 title_type: repository
-id: 58889JM8+VRG
+id: 58889JM8+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

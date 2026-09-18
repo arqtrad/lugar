@@ -1,7 +1,7 @@
 ---
 title: Rego d'Água
 title_type: repository
-id: 58CQ26R5+WHQ
+id: 58CQ26R5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

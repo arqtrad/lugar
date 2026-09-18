@@ -1,7 +1,7 @@
 ---
 title: Comunidade Luterana de Três Pontões
 title_type: repository
-id: 58FWWXQ2+757
+id: 58FWWXQ2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

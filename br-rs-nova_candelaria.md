@@ -1,7 +1,7 @@
 ---
 title: Nova Candelária
 title_type: repository
-id: 58479VVV+66G
+id: 58479VVV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Bandeira do Colônia
 title_type: repository
-id: 58PXVWGJ+3J5
+id: 58PXVWGJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

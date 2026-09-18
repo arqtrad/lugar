@@ -1,7 +1,7 @@
 ---
 title: José Mariano
 title_type: repository
-id: 6936GHPW+83Q
+id: 6936GHPW+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

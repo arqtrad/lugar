@@ -1,7 +1,7 @@
 ---
 title: São Miguel dos Milagres
 title_type: repository
-id: 6926PJMF+9CG
+id: 6926PJMF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

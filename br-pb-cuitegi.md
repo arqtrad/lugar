@@ -1,7 +1,7 @@
 ---
 title: Cuitegi
 title_type: repository
-id: 69564F3G+HWW
+id: 69564F3G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

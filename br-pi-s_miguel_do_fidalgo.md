@@ -1,7 +1,7 @@
 ---
 title: São Miguel do Fidalgo
 title_type: repository
-id: 684VCJ8H+HH8
+id: 684VCJ8H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

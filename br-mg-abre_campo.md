@@ -1,7 +1,7 @@
 ---
 title: Abre Campo
 title_type: repository
-id: 58FVMGXF+MJH
+id: 58FVMGXF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

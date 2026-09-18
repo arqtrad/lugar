@@ -1,7 +1,7 @@
 ---
 title: Ponto Maneca
 title_type: repository
-id: 59M2M8CJ+Q8F
+id: 59M2M8CJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

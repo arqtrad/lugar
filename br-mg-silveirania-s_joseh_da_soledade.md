@@ -1,7 +1,7 @@
 ---
 title: São José da Soledade
 title_type: repository
-id: 58CRVRVQ+M85
+id: 58CRVRVQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

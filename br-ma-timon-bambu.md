@@ -1,7 +1,7 @@
 ---
 title: Bambu
 title_type: repository
-id: 686RWX7F+PC4
+id: 686RWX7F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

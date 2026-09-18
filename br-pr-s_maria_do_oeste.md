@@ -1,7 +1,7 @@
 ---
 title: Santa Maria do Oeste
 title_type: repository
-id: 587C346H+9MF
+id: 587C346H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

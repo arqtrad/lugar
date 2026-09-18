@@ -1,7 +1,7 @@
 ---
 title: Nova Cultura
 title_type: repository
-id: 585F8V74+53R
+id: 585F8V74+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

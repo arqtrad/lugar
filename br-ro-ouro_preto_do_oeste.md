@@ -1,7 +1,7 @@
 ---
 title: Ouro Preto do Oeste
 title_type: repository
-id: 57XV7PGQ+HHG
+id: 57XV7PGQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

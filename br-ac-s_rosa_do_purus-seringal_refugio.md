@@ -1,7 +1,7 @@
 ---
 title: Seringal Refúgio
 title_type: repository
-id: 672GW3GM+42G
+id: 672GW3GM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

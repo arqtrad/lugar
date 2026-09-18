@@ -1,7 +1,7 @@
 ---
 title: Independência
 title_type: repository
-id: 58474RX5+MHX
+id: 58474RX5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

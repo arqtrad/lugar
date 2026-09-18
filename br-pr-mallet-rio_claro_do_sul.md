@@ -1,7 +1,7 @@
 ---
 title: Rio Claro do Sul
 title_type: repository
-id: 586F28XC+QC6
+id: 586F28XC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

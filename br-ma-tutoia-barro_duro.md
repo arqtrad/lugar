@@ -1,7 +1,7 @@
 ---
 title: Barro Duro
 title_type: repository
-id: 689V4M3R+887
+id: 689V4M3R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Abadia de Carbonita
 title_type: repository
-id: 58JR7VVJ+F62
+id: 58JR7VVJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

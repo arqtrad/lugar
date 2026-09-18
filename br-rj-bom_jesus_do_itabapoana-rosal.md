@@ -1,7 +1,7 @@
 ---
 title: Rosal
 title_type: repository
-id: 58FW27R8+P6C
+id: 58FW27R8+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

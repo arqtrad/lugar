@@ -1,7 +1,7 @@
 ---
 title: São Jorge de Tiradentes
 title_type: repository
-id: 58GXVJGR+J2Q
+id: 58GXVJGR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

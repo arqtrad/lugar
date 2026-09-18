@@ -1,7 +1,7 @@
 ---
 title: Santa Maria Eterna
 title_type: repository
-id: 59P25J22+CHM
+id: 59P25J22+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

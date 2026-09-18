@@ -1,7 +1,7 @@
 ---
 title: Dom Pedro de Alcântara
 title_type: repository
-id: 582GJ5J2+635
+id: 582GJ5J2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

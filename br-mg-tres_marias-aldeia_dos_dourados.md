@@ -1,7 +1,7 @@
 ---
 title: Aldeia dos Dourados
 title_type: repository
-id: 58HPRQVG+HPC
+id: 58HPRQVG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

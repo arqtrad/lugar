@@ -1,7 +1,7 @@
 ---
 title: São Sebastião das Três Orelhas
 title_type: repository
-id: 589P8533+5M6
+id: 589P8533+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Retiro
 title_type: repository
-id: 58MPWXWQ+WGM
+id: 58MPWXWQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

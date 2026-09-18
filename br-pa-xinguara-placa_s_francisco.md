@@ -1,7 +1,7 @@
 ---
 title: Placa São Francisco
 title_type: repository
-id: 684GW868+4MR
+id: 684GW868+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

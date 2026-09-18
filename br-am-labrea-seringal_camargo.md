@@ -1,7 +1,7 @@
 ---
 title: Seringal Camargo
 title_type: repository
-id: 673PQCMP+PC7
+id: 673PQCMP+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

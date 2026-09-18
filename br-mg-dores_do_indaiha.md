@@ -1,7 +1,7 @@
 ---
 title: Dores do Indaiá
 title_type: repository
-id: 58GPG9PX+5X6
+id: 58GPG9PX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

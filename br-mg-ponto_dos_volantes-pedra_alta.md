@@ -1,7 +1,7 @@
 ---
 title: Pedra Alta
 title_type: repository
-id: 58JWXJ88+HRX
+id: 58JWXJ88+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Balneário Reino dos Lagos
 title_type: repository
-id: 58HP3VVV+R49
+id: 58HP3VVV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

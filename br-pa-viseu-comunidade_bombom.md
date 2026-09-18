@@ -1,7 +1,7 @@
 ---
 title: Comunidade Bombom
 title_type: repository
-id: 68CMVV46+7CF
+id: 68CMVV46+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

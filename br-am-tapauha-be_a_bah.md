@@ -1,7 +1,7 @@
 ---
 title: Bê-a-Bá
 title_type: repository
-id: 677V44RJ+PC6
+id: 677V44RJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

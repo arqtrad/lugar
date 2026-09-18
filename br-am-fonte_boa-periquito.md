@@ -1,7 +1,7 @@
 ---
 title: Periquito
 title_type: repository
-id: 679MFQMR+CF7
+id: 679MFQMR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

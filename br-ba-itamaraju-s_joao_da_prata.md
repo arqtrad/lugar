@@ -1,7 +1,7 @@
 ---
 title: São João da Prata
 title_type: repository
-id: 58JXVXCH+X2V
+id: 58JXVXCH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

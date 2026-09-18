@@ -1,7 +1,7 @@
 ---
 title: Boa Vista do Buricá
 title_type: repository
-id: 58478VJR+C22
+id: 58478VJR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

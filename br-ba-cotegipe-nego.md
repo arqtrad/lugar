@@ -1,7 +1,7 @@
 ---
 title: Nego
 title_type: repository
-id: 58WQ7RWJ+854
+id: 58WQ7RWJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

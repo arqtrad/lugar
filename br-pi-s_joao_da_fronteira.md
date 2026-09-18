@@ -1,7 +1,7 @@
 ---
 title: São João da Fronteira
 title_type: repository
-id: 688W3P6R+2VC
+id: 688W3P6R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

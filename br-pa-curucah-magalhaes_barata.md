@@ -1,7 +1,7 @@
 ---
 title: Magalhães Barata
 title_type: repository
-id: 68FJ34CR+5MP
+id: 68FJ34CR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

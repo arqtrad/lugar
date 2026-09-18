@@ -1,7 +1,7 @@
 ---
 title: Ribeirão das Pedras
 title_type: repository
-id: 58P5M99J+7Q4
+id: 58P5M99J+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

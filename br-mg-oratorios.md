@@ -1,7 +1,7 @@
 ---
 title: Oratórios
 title_type: repository
-id: 58FVH59W+6FQ
+id: 58FVH59W+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

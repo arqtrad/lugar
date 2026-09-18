@@ -1,7 +1,7 @@
 ---
 title: Serra Vermelha
 title_type: repository
-id: 684X249F+G94
+id: 684X249F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

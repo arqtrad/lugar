@@ -1,7 +1,7 @@
 ---
 title: Lagoa
 title_type: repository
-id: 59W34P2G+W46
+id: 59W34P2G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

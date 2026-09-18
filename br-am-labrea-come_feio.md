@@ -1,7 +1,7 @@
 ---
 title: Come Feio
 title_type: repository
-id: 673PRGXF+5RW
+id: 673PRGXF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

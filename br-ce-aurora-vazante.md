@@ -1,7 +1,7 @@
 ---
 title: Vazante
 title_type: repository
-id: 69523W3G+R2C
+id: 69523W3G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

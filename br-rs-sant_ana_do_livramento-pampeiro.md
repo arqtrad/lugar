@@ -1,7 +1,7 @@
 ---
 title: Pampeiro
 title_type: repository
-id: 48X68QR5+XW3
+id: 48X68QR5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

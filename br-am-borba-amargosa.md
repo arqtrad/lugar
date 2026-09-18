@@ -1,7 +1,7 @@
 ---
 title: Amargosa
 title_type: repository
-id: 677XHW74+MJ6
+id: 677XHW74+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

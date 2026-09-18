@@ -1,7 +1,7 @@
 ---
 title: São João d'Oeste
 title_type: repository
-id: 58782QP3+4XJ
+id: 58782QP3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

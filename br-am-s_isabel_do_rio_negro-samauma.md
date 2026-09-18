@@ -1,7 +1,7 @@
 ---
 title: Samaúma
 title_type: repository
-id: 67FQH67M+HJ6
+id: 67FQH67M+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

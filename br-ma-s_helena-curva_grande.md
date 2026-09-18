@@ -1,7 +1,7 @@
 ---
 title: Curva Grande
 title_type: repository
-id: 689P9GJV+GQ6
+id: 689P9GJV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

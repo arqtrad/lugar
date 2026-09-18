@@ -1,7 +1,7 @@
 ---
 title: Formoso
 title_type: repository
-id: 58RH84XG+M48
+id: 58RH84XG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Anta
 title_type: repository
-id: 589VX265+VV4
+id: 589VX265+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

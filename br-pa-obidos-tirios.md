@@ -1,7 +1,7 @@
 ---
 title: Tiriós
 title_type: repository
-id: 68J663G2+P2V
+id: 68J663G2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

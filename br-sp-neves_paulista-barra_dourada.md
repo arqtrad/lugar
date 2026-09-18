@@ -1,7 +1,7 @@
 ---
 title: Barra Dourada
 title_type: repository
-id: 58FG59RJ+3W3
+id: 58FG59RJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

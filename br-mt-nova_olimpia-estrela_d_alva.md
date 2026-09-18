@@ -1,7 +1,7 @@
 ---
 title: Estrela d'Alva
 title_type: repository
-id: 58Q45MH2+7W7
+id: 58Q45MH2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

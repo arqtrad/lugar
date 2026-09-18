@@ -1,7 +1,7 @@
 ---
 title: São Luiz do Oeste
 title_type: repository
-id: 58787C8H+MRX
+id: 58787C8H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

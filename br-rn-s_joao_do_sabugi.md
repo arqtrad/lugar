@@ -1,7 +1,7 @@
 ---
 title: São João do Sabugi
 title_type: repository
-id: 69547QJW+PMW
+id: 69547QJW+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

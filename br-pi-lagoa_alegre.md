@@ -1,7 +1,7 @@
 ---
 title: Lagoa Alegre
 title_type: repository
-id: 687VF9QJ+6RQ
+id: 687VF9QJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: São Sebastião do Rio Preto
 title_type: repository
-id: 58GRPR4G+R25
+id: 58GRPR4G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

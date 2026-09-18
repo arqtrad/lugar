@@ -1,7 +1,7 @@
 ---
 title: Seringal Santa Corea
 title_type: repository
-id: 675Q49M8+XQP
+id: 675Q49M8+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

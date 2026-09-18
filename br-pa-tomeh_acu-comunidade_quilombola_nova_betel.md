@@ -1,7 +1,7 @@
 ---
 title: Comunidade Quilombola Nova Betel
 title_type: repository
-id: 689HQQ74+V54
+id: 689HQQ74+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

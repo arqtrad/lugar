@@ -1,7 +1,7 @@
 ---
 title: Clube Náutico Jacaré-Pepira
 title_type: repository
-id: 58CH453J+MQG
+id: 58CH453J+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

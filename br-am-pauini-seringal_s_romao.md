@@ -1,7 +1,7 @@
 ---
 title: Seringal São Romão
 title_type: repository
-id: 673JRMFQ+QP2
+id: 673JRMFQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

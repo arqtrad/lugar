@@ -1,7 +1,7 @@
 ---
 title: General Maynard
 title_type: repository
-id: 59X58278+W7R
+id: 59X58278+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

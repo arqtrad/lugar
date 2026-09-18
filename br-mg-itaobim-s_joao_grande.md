@@ -1,7 +1,7 @@
 ---
 title: São João Grande
 title_type: repository
-id: 58MW8G52+XVC
+id: 58MW8G52+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

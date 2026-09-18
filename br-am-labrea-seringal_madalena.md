@@ -1,7 +1,7 @@
 ---
 title: Seringal Madalena
 title_type: repository
-id: 673P4C27+FHM
+id: 673P4C27+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

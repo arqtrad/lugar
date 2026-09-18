@@ -1,7 +1,7 @@
 ---
 title: Vista Alegre
 title_type: repository
-id: 672F7XMF+8PP
+id: 672F7XMF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

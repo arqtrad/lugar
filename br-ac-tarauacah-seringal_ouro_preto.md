@@ -1,7 +1,7 @@
 ---
 title: Seringal Ouro Preto
 title_type: repository
-id: 673FF483+R93
+id: 673FF483+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

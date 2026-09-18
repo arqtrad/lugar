@@ -1,7 +1,7 @@
 ---
 title: Mandaqui
 title_type: repository
-id: 588MG9C6+WF5
+id: 588MG9C6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

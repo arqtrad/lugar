@@ -1,7 +1,7 @@
 ---
 title: Sopa
 title_type: repository
-id: 58HRQ8G4+9Q2
+id: 58HRQ8G4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

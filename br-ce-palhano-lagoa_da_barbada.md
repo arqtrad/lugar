@@ -1,7 +1,7 @@
 ---
 title: Lagoa da Barbada
 title_type: repository
-id: 69738X2V+8HC
+id: 69738X2V+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

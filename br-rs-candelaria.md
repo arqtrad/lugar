@@ -1,7 +1,7 @@
 ---
 title: Candelária
 title_type: repository
-id: 582986J6+CC2
+id: 582986J6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

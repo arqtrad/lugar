@@ -1,7 +1,7 @@
 ---
 title: Bom Jesus da Vista Alegre
 title_type: repository
-id: 58GWW6P7+FX2
+id: 58GWW6P7+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

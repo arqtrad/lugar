@@ -1,7 +1,7 @@
 ---
 title: Curupari
 title_type: repository
-id: 68C996FX+4C6
+id: 68C996FX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

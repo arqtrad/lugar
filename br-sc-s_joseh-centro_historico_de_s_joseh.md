@@ -1,7 +1,7 @@
 ---
 title: Centro Histórico de São José
 title_type: repository
-id: 584H99QC+3X9
+id: 584H99QC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

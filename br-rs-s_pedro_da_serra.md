@@ -1,7 +1,7 @@
 ---
 title: São Pedro da Serra
 title_type: repository
-id: 582CHFHQ+RM5
+id: 582CHFHQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

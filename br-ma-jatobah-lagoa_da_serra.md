@@ -1,7 +1,7 @@
 ---
 title: Lagoa da Serra
 title_type: repository
-id: 686Q5GCV+F9H
+id: 686Q5GCV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Amandina
 title_type: repository
-id: 5898JC74+VRM
+id: 5898JC74+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: São João do Oeste
 title_type: repository
-id: 5848WC24+8VJ
+id: 5848WC24+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

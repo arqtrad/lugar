@@ -1,7 +1,7 @@
 ---
 title: Aldeia Sede
 title_type: repository
-id: 6932FHMG+G8V
+id: 6932FHMG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

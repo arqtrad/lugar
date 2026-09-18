@@ -1,7 +1,7 @@
 ---
 title: Sales
 title_type: repository
-id: 677RV5J9+7JR
+id: 677RV5J9+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

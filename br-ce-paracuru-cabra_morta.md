@@ -1,7 +1,7 @@
 ---
 title: Cabra Morta
 title_type: repository
-id: 6982HX5Q+FXH
+id: 6982HX5Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

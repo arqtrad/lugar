@@ -1,7 +1,7 @@
 ---
 title: Lagoa dos Três Cantos
 title_type: repository
-id: 5839C4HR+JR2
+id: 5839C4HR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

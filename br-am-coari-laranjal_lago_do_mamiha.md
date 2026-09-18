@@ -1,7 +1,7 @@
 ---
 title: Laranjal Lago do Mamiá
 title_type: repository
-id: 677VW2CR+39F
+id: 677VW2CR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

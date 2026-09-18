@@ -1,7 +1,7 @@
 ---
 title: Ilha do Rio Doce
 title_type: repository
-id: 58GVGGJR+CMP
+id: 58GVGGJR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

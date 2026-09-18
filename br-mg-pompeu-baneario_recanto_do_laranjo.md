@@ -1,7 +1,7 @@
 ---
 title: Baneario Recanto do Laranjo
 title_type: repository
-id: 58HQ36X6+FM7
+id: 58HQ36X6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Casa Nova
 title_type: repository
-id: 682XR2GG+7GM
+id: 682XR2GG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

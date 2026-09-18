@@ -1,7 +1,7 @@
 ---
 title: Cristo Rei
 title_type: repository
-id: 68932GHF+J4V
+id: 68932GHF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

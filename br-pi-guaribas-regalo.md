@@ -1,7 +1,7 @@
 ---
 title: Regalo
 title_type: repository
-id: 682RH7VR+X54
+id: 682RH7VR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Pedra Vermelha
 title_type: repository
-id: 59X2JFQQ+CWV
+id: 59X2JFQQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

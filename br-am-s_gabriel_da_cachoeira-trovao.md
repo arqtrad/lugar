@@ -1,7 +1,7 @@
 ---
 title: Trovão
 title_type: repository
-id: 67GJ3GP4+CFC
+id: 67GJ3GP4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

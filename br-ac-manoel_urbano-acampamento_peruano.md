@@ -1,7 +1,7 @@
 ---
 title: Acampamento Peruano
 title_type: repository
-id: 672F7X98+9V9
+id: 672F7X98+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

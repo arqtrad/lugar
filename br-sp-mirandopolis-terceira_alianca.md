@@ -1,7 +1,7 @@
 ---
 title: Terceira Aliança
 title_type: repository
-id: 58FC3XCF+WHV
+id: 58FC3XCF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

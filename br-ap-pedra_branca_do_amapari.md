@@ -1,7 +1,7 @@
 ---
 title: Pedra Branca do Amapari
 title_type: repository
-id: 68GCQ3G3+Q92
+id: 68GCQ3G3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

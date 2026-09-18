@@ -1,7 +1,7 @@
 ---
 title: Contenda
 title_type: repository
-id: 69669Q25+6RG
+id: 69669Q25+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

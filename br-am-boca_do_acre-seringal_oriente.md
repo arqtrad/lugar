@@ -1,7 +1,7 @@
 ---
 title: Seringal Oriente
 title_type: repository
-id: 672JP44W+736
+id: 672JP44W+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

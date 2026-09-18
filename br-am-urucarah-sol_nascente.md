@@ -1,7 +1,7 @@
 ---
 title: Sol Nascente
 title_type: repository
-id: 6894JCGH+VQC
+id: 6894JCGH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Senhora do Socorro
 title_type: repository
-id: 58GRVR6W+4MV
+id: 58GRVR6W+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

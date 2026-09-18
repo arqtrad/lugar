@@ -1,7 +1,7 @@
 ---
 title: Triunfo Potiguar
 title_type: repository
-id: 69644RM6+9JX
+id: 69644RM6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

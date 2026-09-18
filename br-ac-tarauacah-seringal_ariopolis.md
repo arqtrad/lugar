@@ -1,7 +1,7 @@
 ---
 title: Seringal Ariópolis
 title_type: repository
-id: 673C6R7F+G6P
+id: 673C6R7F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

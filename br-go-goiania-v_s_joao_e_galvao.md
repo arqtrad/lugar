@@ -1,7 +1,7 @@
 ---
 title: Vila São João e Galvão
 title_type: repository
-id: 58MG8RW7+PRF
+id: 58MG8RW7+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

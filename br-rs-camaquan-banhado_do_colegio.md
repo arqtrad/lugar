@@ -1,7 +1,7 @@
 ---
 title: Banhado do Colégio
 title_type: repository
-id: 48XC36M2+JMG
+id: 48XC36M2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

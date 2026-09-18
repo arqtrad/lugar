@@ -1,7 +1,7 @@
 ---
 title: Espadilha
 title_type: repository
-id: 684F76C8+XXJ
+id: 684F76C8+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

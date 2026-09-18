@@ -1,7 +1,7 @@
 ---
 title: Seringal Mucuripe
 title_type: repository
-id: 673C6WXJ+9MF
+id: 673C6WXJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

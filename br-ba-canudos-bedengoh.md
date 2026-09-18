@@ -1,7 +1,7 @@
 ---
 title: Bedengó
 title_type: repository
-id: 69222RQP+4G3
+id: 69222RQP+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

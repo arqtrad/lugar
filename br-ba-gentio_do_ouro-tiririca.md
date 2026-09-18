@@ -1,7 +1,7 @@
 ---
 title: Tiririca
 title_type: repository
-id: 58WVGC7Q+GCV
+id: 58WVGC7Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Nova Santa Cruz
 title_type: repository
-id: 6943PC3X+7JG
+id: 6943PC3X+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

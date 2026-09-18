@@ -1,7 +1,7 @@
 ---
 title: Seringal Seci
 title_type: repository
-id: 672CM7QM+8J4
+id: 672CM7QM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

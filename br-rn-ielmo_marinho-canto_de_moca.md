@@ -1,7 +1,7 @@
 ---
 title: Canto de Moça
 title_type: repository
-id: 69667G8F+HRW
+id: 69667G8F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

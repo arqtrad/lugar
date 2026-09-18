@@ -1,7 +1,7 @@
 ---
 title: Seringal Boca do Lago
 title_type: repository
-id: 57XHFR2C+6R8
+id: 57XHFR2C+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Barra de Novo Brasil
 title_type: repository
-id: 58GXVG37+3VX
+id: 58GXVG37+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

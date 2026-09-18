@@ -1,7 +1,7 @@
 ---
 title: Dois Irmãos do Buriti
 title_type: repository
-id: 58F68P59+W26
+id: 58F68P59+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

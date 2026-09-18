@@ -1,7 +1,7 @@
 ---
 title: Abóbora
 title_type: repository
-id: 682X5WHX+H8X
+id: 682X5WHX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Brasilândia de Minas
 title_type: repository
-id: 58MM2X2Q+W2X
+id: 58MM2X2Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

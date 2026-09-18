@@ -1,7 +1,7 @@
 ---
 title: Comunidade de Santa Catarina
 title_type: repository
-id: 58MQ8563+PVJ
+id: 58MQ8563+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

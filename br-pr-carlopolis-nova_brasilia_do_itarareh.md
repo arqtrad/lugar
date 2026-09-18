@@ -1,7 +1,7 @@
 ---
 title: Nova Brasília do Itararé
 title_type: repository
-id: 588GF736+WM8
+id: 588GF736+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

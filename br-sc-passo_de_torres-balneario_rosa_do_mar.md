@@ -1,7 +1,7 @@
 ---
 title: Balneário Rosa do Mar
 title_type: repository
-id: 582GP8MF+F97
+id: 582GP8MF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

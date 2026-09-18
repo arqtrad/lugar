@@ -1,7 +1,7 @@
 ---
 title: Seringal Foz d'Ouro
 title_type: repository
-id: 672CG49J+C29
+id: 672CG49J+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

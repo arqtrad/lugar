@@ -1,7 +1,7 @@
 ---
 title: São João do Itaperiú
 title_type: repository
-id: 585H96JJ+9X5
+id: 585H96JJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

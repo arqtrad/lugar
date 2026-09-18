@@ -1,7 +1,7 @@
 ---
 title: Vila Jornal
 title_type: repository
-id: 68GCR26R+PQC
+id: 68GCR26R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

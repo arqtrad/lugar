@@ -1,7 +1,7 @@
 ---
 title: Ordália
 title_type: repository
-id: 58MGQ7Q6+VJH
+id: 58MGQ7Q6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

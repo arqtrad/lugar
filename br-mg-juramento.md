@@ -1,7 +1,7 @@
 ---
 title: Juramento
 title_type: repository
-id: 58MR5C27+F7Q
+id: 58MR5C27+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

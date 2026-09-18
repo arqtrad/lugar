@@ -1,7 +1,7 @@
 ---
 title: Rio Bom
 title_type: repository
-id: 588C6HPQ+R37
+id: 588C6HPQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

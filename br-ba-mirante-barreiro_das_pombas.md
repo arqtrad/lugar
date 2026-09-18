@@ -1,7 +1,7 @@
 ---
 title: Barreiro das Pombas
 title_type: repository
-id: 58QXW2P3+G48
+id: 58QXW2P3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

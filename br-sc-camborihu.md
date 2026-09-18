@@ -1,7 +1,7 @@
 ---
 title: Camboriú
 title_type: repository
-id: 584HX9C7+MW9
+id: 584HX9C7+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Dores de Guanhães
 title_type: repository
-id: 58GVW3RC+R95
+id: 58GVW3RC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

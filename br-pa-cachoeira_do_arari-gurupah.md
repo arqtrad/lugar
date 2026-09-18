@@ -1,7 +1,7 @@
 ---
 title: Gurupá
 title_type: repository
-id: 68CHR6RC+X6V
+id: 68CHR6RC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

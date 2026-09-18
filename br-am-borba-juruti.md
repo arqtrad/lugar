@@ -1,7 +1,7 @@
 ---
 title: Juruti
 title_type: repository
-id: 677XMQXX+H9H
+id: 677XMQXX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

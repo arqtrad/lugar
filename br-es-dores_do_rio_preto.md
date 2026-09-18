@@ -1,7 +1,7 @@
 ---
 title: Dores do Rio Preto
 title_type: repository
-id: 58FW8552+98Q
+id: 58FW8552+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

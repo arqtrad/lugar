@@ -1,7 +1,7 @@
 ---
 title: Dias d'Ávila
 title_type: repository
-id: 59V39MPX+CJ6
+id: 59V39MPX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

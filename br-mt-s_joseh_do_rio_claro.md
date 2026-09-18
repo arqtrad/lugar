@@ -1,7 +1,7 @@
 ---
 title: São José do Rio Claro
 title_type: repository
-id: 58R5G7XH+WH9
+id: 58R5G7XH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

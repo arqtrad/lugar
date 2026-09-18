@@ -1,7 +1,7 @@
 ---
 title: Preta Mina
 title_type: repository
-id: 68CM894G+2GX
+id: 68CM894G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

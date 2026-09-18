@@ -1,7 +1,7 @@
 ---
 title: Seringal Capital
 title_type: repository
-id: 672HH37H+XW5
+id: 672HH37H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

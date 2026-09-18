@@ -1,7 +1,7 @@
 ---
 title: São Nicolau Pequeno
 title_type: repository
-id: 58HVG68F+V7J
+id: 58HVG68F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Comunidade Ebenezer
 title_type: repository
-id: 679X2R48+X2W
+id: 679X2R48+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

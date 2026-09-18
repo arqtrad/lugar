@@ -1,7 +1,7 @@
 ---
 title: Aljubarrota
 title_type: repository
-id: 677GPF37+F7J
+id: 677GPF37+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

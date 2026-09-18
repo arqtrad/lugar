@@ -1,7 +1,7 @@
 ---
 title: Capinal
 title_type: repository
-id: 58QWHX3V+P7V
+id: 58QWHX3V+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

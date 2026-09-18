@@ -1,7 +1,7 @@
 ---
 title: Aldeia Pé de Serra do Oiti ou Pé de Serra de São Sebastião
 title_type: repository
-id: 6935P867+9RJ
+id: 6935P867+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

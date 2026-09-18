@@ -1,7 +1,7 @@
 ---
 title: Descanso
 title_type: repository
-id: 687R3R7P+8Q7
+id: 687R3R7P+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

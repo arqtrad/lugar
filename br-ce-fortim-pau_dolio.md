@@ -1,7 +1,7 @@
 ---
 title: Pau Dolio
 title_type: repository
-id: 6974H5P8+JGX
+id: 6974H5P8+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

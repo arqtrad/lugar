@@ -1,7 +1,7 @@
 ---
 title: Comunidade Quilombola Canta Galo I
 title_type: repository
-id: 59X4FX8Q+J43
+id: 59X4FX8Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

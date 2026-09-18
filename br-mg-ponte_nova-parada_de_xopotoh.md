@@ -1,7 +1,7 @@
 ---
 title: Parada de Xopotó
 title_type: repository
-id: 58FVM3WH+HW3
+id: 58FVM3WH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Pérola Independente
 title_type: repository
-id: 5878F775+HQF
+id: 5878F775+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

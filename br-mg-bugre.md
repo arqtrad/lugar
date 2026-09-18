@@ -1,7 +1,7 @@
 ---
 title: Bugre
 title_type: repository
-id: 58GVHPGV+6G6
+id: 58GVHPGV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

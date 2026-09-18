@@ -1,7 +1,7 @@
 ---
 title: Canudos
 title_type: repository
-id: 58XR3X2P+HVR
+id: 58XR3X2P+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

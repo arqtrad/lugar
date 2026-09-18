@@ -1,7 +1,7 @@
 ---
 title: Lagoa Dourada
 title_type: repository
-id: 58FQ3WPC+FQ8
+id: 58FQ3WPC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

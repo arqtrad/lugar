@@ -1,7 +1,7 @@
 ---
 title: Guadalajara
 title_type: repository
-id: 69463V6H+3JQ
+id: 69463V6H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

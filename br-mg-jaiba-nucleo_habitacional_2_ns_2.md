@@ -1,7 +1,7 @@
 ---
 title: Núcleo Habitacional 2 (NS-2)
 title_type: repository
-id: 58PRR3V3+X94
+id: 58PRR3V3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Santa Clara
 title_type: repository
-id: 676J453M+V3C
+id: 676J453M+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

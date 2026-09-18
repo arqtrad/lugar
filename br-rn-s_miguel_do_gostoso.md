@@ -1,7 +1,7 @@
 ---
 title: São Miguel do Gostoso
 title_type: repository
-id: 6966V9F5+X2W
+id: 6966V9F5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

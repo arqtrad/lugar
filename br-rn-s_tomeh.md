@@ -1,7 +1,7 @@
 ---
 title: São Tomé
 title_type: repository
-id: 69652WHG+H3H
+id: 69652WHG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

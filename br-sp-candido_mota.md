@@ -1,7 +1,7 @@
 ---
 title: Cândido Mota
 title_type: repository
-id: 589F7J37+J62
+id: 589F7J37+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

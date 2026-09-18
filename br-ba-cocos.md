@@ -1,7 +1,7 @@
 ---
 title: Cocos
 title_type: repository
-id: 58QQRF97+HHG
+id: 58QQRF97+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

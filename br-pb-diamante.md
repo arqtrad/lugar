@@ -1,7 +1,7 @@
 ---
 title: Diamante
 title_type: repository
-id: 6943HPFQ+832
+id: 6943HPFQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

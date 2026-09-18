@@ -1,7 +1,7 @@
 ---
 title: Gurupora
 title_type: repository
-id: 68GFX665+Q7R
+id: 68GFX665+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

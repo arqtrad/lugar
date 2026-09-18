@@ -1,7 +1,7 @@
 ---
 title: São Bento de Caldas
 title_type: repository
-id: 589MVM9Q+2G3
+id: 589MVM9Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

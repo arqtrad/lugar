@@ -1,7 +1,7 @@
 ---
 title: João de Barros
 title_type: repository
-id: 58WRP33V+Q6F
+id: 58WRP33V+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Assentamento Nova Descoberta
 title_type: repository
-id: 6965M22G+HJ9
+id: 6965M22G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

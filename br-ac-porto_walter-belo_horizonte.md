@@ -1,7 +1,7 @@
 ---
 title: Belo Horizonte
 title_type: repository
-id: 6739H5MM+WR6
+id: 6739H5MM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

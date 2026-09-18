@@ -1,7 +1,7 @@
 ---
 title: Comunidade São João Batista
 title_type: repository
-id: 672V94P2+23H
+id: 672V94P2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

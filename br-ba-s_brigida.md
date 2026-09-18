@@ -1,7 +1,7 @@
 ---
 title: Santa Brígida
 title_type: repository
-id: 69237V7C+XFJ
+id: 69237V7C+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

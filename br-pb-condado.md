@@ -1,7 +1,7 @@
 ---
 title: Condado
 title_type: repository
-id: 695439QX+WX8
+id: 695439QX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Barreiro
 title_type: repository
-id: 587HR375+H53
+id: 587HR375+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

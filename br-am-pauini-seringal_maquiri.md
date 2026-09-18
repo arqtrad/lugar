@@ -1,7 +1,7 @@
 ---
 title: Seringal Maquiri
 title_type: repository
-id: 674J4VW3+R4G
+id: 674J4VW3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

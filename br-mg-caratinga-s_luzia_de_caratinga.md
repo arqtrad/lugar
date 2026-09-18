@@ -1,7 +1,7 @@
 ---
 title: Santa Luzia de Caratinga
 title_type: repository
-id: 58GV5W2G+RW7
+id: 58GV5W2G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

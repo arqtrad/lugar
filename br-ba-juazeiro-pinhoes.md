@@ -1,7 +1,7 @@
 ---
 title: Pinhões
 title_type: repository
-id: 6922C4C5+QF4
+id: 6922C4C5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

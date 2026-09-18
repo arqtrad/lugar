@@ -1,7 +1,7 @@
 ---
 title: Manga
 title_type: repository
-id: 58WQFW2V+WFH
+id: 58WQFW2V+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

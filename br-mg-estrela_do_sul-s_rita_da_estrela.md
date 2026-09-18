@@ -1,7 +1,7 @@
 ---
 title: Santa Rita da Estrela
 title_type: repository
-id: 58HJ78C3+H2M
+id: 58HJ78C3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

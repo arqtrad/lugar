@@ -1,7 +1,7 @@
 ---
 title: Guachos
 title_type: repository
-id: 58CC2X3F+F9M
+id: 58CC2X3F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

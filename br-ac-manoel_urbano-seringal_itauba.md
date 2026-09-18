@@ -1,7 +1,7 @@
 ---
 title: Seringal Itauba
 title_type: repository
-id: 673G6W92+RQ6
+id: 673G6W92+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

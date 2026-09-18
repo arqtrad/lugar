@@ -1,7 +1,7 @@
 ---
 title: São José do Gibão
 title_type: repository
-id: 58QQ94XM+8JG
+id: 58QQ94XM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

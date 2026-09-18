@@ -1,7 +1,7 @@
 ---
 title: Serra Talhada
 title_type: repository
-id: 69432P52+7H2
+id: 69432P52+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

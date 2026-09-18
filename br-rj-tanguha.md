@@ -1,7 +1,7 @@
 ---
 title: Tanguá
 title_type: repository
-id: 589V7779+V9F
+id: 589V7779+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: São João do Manteninha
 title_type: repository
-id: 58HW7RGP+HMP
+id: 58HW7RGP+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

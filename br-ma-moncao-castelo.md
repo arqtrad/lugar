@@ -1,7 +1,7 @@
 ---
 title: Castelo
 title_type: repository
-id: 688PGMXX+6CP
+id: 688PGMXX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

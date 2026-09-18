@@ -1,7 +1,7 @@
 ---
 title: Agrovila do PA Brinco de Ouro
 title_type: repository
-id: 6966J4R9+GJ8
+id: 6966J4R9+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

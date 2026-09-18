@@ -1,7 +1,7 @@
 ---
 title: Amoras
 title_type: repository
-id: 582C74WV+X5W
+id: 582C74WV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

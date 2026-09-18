@@ -1,7 +1,7 @@
 ---
 title: Sorriso
 title_type: repository
-id: 58V6F74G+G5Q
+id: 58V6F74G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

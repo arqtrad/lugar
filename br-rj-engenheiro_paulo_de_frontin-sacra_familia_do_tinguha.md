@@ -1,7 +1,7 @@
 ---
 title: Sacra Família do Tinguá
 title_type: repository
-id: 589RG95V+G8J
+id: 589RG95V+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

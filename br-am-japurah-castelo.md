@@ -1,7 +1,7 @@
 ---
 title: Castelo
 title_type: repository
-id: 679MXMCC+P27
+id: 679MXMCC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

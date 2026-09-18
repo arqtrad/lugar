@@ -1,7 +1,7 @@
 ---
 title: Poimró
 title_type: repository
-id: 68G7W86Q+FQ9
+id: 68G7W86Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

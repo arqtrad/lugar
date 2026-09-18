@@ -1,7 +1,7 @@
 ---
 title: Vila Nova
 title_type: repository
-id: 582GW53M+VCG
+id: 582GW53M+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

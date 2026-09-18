@@ -1,7 +1,7 @@
 ---
 title: São José do Ouro
 title_type: repository
-id: 584C6CG4+G46
+id: 584C6CG4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

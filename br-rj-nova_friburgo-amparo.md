@@ -1,7 +1,7 @@
 ---
 title: Amparo
 title_type: repository
-id: 589VPGQQ+2RF
+id: 589VPGQQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

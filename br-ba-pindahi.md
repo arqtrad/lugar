@@ -1,7 +1,7 @@
 ---
 title: Pindaí
 title_type: repository
-id: 58QVG857+F5R
+id: 58QVG857+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

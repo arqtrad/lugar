@@ -1,7 +1,7 @@
 ---
 title: Barra de Alegria
 title_type: repository
-id: 58PVGW2Q+7GX
+id: 58PVGW2Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: São Sebastião dos Ferreiros
 title_type: repository
-id: 589RHCCJ+RWM
+id: 589RHCCJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

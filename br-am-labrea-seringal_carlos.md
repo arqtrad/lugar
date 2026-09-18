@@ -1,7 +1,7 @@
 ---
 title: Seringal Carlos
 title_type: repository
-id: 674PCFFW+57V
+id: 674PCFFW+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

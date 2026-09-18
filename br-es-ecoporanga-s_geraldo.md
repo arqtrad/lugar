@@ -1,7 +1,7 @@
 ---
 title: São Geraldo
 title_type: repository
-id: 58HXQ686+8Q2
+id: 58HXQ686+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

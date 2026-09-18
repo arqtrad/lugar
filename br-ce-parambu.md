@@ -1,7 +1,7 @@
 ---
 title: Parambu
 title_type: repository
-id: 685XQ8Q4+66M
+id: 685XQ8Q4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

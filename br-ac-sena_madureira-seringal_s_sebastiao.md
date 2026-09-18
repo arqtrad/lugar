@@ -1,7 +1,7 @@
 ---
 title: Seringal São Sebastião
 title_type: repository
-id: 672GRR8R+8C6
+id: 672GRR8R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Comunidade Quilombola Boa Vista do Pixaim
 title_type: repository
-id: 58VRXM86+GJV
+id: 58VRXM86+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

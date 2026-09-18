@@ -1,7 +1,7 @@
 ---
 title: Bom Futuro
 title_type: repository
-id: 68645F8Q+56Q
+id: 68645F8Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

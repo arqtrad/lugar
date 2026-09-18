@@ -1,7 +1,7 @@
 ---
 title: Seringal Flores
 title_type: repository
-id: 673J5GHR+6F2
+id: 673J5GHR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

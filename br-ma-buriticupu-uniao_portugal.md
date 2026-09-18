@@ -1,7 +1,7 @@
 ---
 title: União Portugal
 title_type: repository
-id: 687MWJMR+RCP
+id: 687MWJMR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

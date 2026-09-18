@@ -1,7 +1,7 @@
 ---
 title: Pariquis
 title_type: repository
-id: 68FJ5VF5+7R8
+id: 68FJ5VF5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

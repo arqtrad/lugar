@@ -1,7 +1,7 @@
 ---
 title: Pedra
 title_type: repository
-id: 58FQX8RX+384
+id: 58FQX8RX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

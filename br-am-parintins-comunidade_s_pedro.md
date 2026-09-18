@@ -1,7 +1,7 @@
 ---
 title: Comunidade São Pedro
 title_type: repository
-id: 689536V4+PCG
+id: 689536V4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Coco 3
 title_type: repository
-id: 686GX5Q4+FXG
+id: 686GX5Q4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Barreiro de Sete Lagoas
 title_type: repository
-id: 58GQHM3G+X2X
+id: 58GQHM3G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Cerro Azul
 title_type: repository
-id: 587G5PGQ+CJ2
+id: 587G5PGQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

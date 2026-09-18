@@ -1,7 +1,7 @@
 ---
 title: Aldeia Indígena TI Xocó da Ilha de São Pedro
 title_type: repository
-id: 69246J5M+PR8
+id: 69246J5M+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

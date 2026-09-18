@@ -1,7 +1,7 @@
 ---
 title: Seringal Monte Verde
 title_type: repository
-id: 673F9F83+HJQ
+id: 673F9F83+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

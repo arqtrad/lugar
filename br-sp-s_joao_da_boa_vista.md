@@ -1,7 +1,7 @@
 ---
 title: São João da Boa Vista
 title_type: repository
-id: 58CM26J2+CR2
+id: 58CM26J2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Queimada do Rufino
 title_type: repository
-id: 58WW54G4+57R
+id: 58WW54G4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

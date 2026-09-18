@@ -1,7 +1,7 @@
 ---
 title: Ajarai
 title_type: repository
-id: 68CJ9C4G+PFG
+id: 68CJ9C4G+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

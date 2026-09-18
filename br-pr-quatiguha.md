@@ -1,7 +1,7 @@
 ---
 title: Quatiguá
 title_type: repository
-id: 588GC3MP+6C2
+id: 588GC3MP+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

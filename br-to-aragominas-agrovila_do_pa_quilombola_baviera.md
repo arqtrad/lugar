@@ -1,7 +1,7 @@
 ---
 title: Agrovila do PA Quilombola Baviera
 title_type: repository
-id: 685H5579+P2R
+id: 685H5579+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

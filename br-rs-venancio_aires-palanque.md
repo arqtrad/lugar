@@ -1,7 +1,7 @@
 ---
 title: Palanque
 title_type: repository
-id: 5829CV9R+JXR
+id: 5829CV9R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Ouricuri
 title_type: repository
-id: 684X4W89+CPC
+id: 684X4W89+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

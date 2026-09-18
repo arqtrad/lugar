@@ -1,7 +1,7 @@
 ---
 title: Nova Minda
 title_type: repository
-id: 58PQ2JHC+F3F
+id: 58PQ2JHC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

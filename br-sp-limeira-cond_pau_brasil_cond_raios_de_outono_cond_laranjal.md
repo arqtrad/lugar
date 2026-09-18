@@ -1,7 +1,7 @@
 ---
 title: Cond. Pau-Brasil / Cond. Raios de Outono / Cond. Laranjal
 title_type: repository
-id: 589JCMPR+PCC
+id: 589JCMPR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

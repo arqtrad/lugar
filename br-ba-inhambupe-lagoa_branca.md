@@ -1,7 +1,7 @@
 ---
 title: Lagoa Branca
 title_type: repository
-id: 59W39JHM+48W
+id: 59W39JHM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

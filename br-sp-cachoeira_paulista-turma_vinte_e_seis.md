@@ -1,7 +1,7 @@
 ---
 title: Turma Vinte e Seis
 title_type: repository
-id: 589Q9233+J3C
+id: 589Q9233+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

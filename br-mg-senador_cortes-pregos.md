@@ -1,7 +1,7 @@
 ---
 title: Pregos
 title_type: repository
-id: 58CV64Q5+7VQ
+id: 58CV64Q5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

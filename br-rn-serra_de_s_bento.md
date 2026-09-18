@@ -1,7 +1,7 @@
 ---
 title: Serra de São Bento
 title_type: repository
-id: 6956H7JW+V2W
+id: 6956H7JW+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Zinca
 title_type: repository
-id: 686RH98P+8F3
+id: 686RH98P+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

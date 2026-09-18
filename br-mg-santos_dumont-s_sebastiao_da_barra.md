@@ -1,7 +1,7 @@
 ---
 title: São Sebastião da Barra
 title_type: repository
-id: 58CRHF82+V68
+id: 58CRHF82+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

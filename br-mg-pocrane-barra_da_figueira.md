@@ -1,7 +1,7 @@
 ---
 title: Barra da Figueira
 title_type: repository
-id: 58GWCC2R+W22
+id: 58GWCC2R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

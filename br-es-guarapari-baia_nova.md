@@ -1,7 +1,7 @@
 ---
 title: Baia Nova
 title_type: repository
-id: 58FXGC27+4JW
+id: 58FXGC27+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Vila do Bonifácio
 title_type: repository
-id: 68FM593P+HX9
+id: 68FM593P+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

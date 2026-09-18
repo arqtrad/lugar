@@ -1,7 +1,7 @@
 ---
 title: Comunidade São Sebastião
 title_type: repository
-id: 57WWMH24+6FF
+id: 57WWMH24+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

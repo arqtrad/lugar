@@ -1,7 +1,7 @@
 ---
 title: Bias Fortes
 title_type: repository
-id: 58CR96WV+942
+id: 58CR96WV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

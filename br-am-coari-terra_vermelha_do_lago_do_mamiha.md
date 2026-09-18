@@ -1,7 +1,7 @@
 ---
 title: Terra Vermelha do Lago do Mamiá
 title_type: repository
-id: 677VW22J+HW4
+id: 677VW22J+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

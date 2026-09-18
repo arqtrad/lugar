@@ -1,7 +1,7 @@
 ---
 title: Rosário
 title_type: repository
-id: 6943M2X8+RRX
+id: 6943M2X8+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

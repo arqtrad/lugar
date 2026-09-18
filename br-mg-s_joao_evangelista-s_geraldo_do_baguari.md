@@ -1,7 +1,7 @@
 ---
 title: São Geraldo do Baguari
 title_type: repository
-id: 58HVJ6G4+7QJ
+id: 58HVJ6G4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

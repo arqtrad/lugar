@@ -1,7 +1,7 @@
 ---
 title: São João do Rio Vermelho
 title_type: repository
-id: 584HGH3P+57H
+id: 584HGH3P+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Barão de Melgaço
 title_type: repository
-id: 58M6R23M+596
+id: 58M6R23M+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

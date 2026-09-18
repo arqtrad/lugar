@@ -1,7 +1,7 @@
 ---
 title: Capela da Luz
 title_type: repository
-id: 583F95J3+8F6
+id: 583F95J3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

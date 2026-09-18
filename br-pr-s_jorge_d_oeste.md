@@ -1,7 +1,7 @@
 ---
 title: São Jorge d'Oeste
 title_type: repository
-id: 586973RJ+HP7
+id: 586973RJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

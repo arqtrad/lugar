@@ -1,7 +1,7 @@
 ---
 title: Seringal Sol Nascente
 title_type: repository
-id: 672H75QV+69H
+id: 672H75QV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

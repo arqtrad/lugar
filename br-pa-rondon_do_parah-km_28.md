@@ -1,7 +1,7 @@
 ---
 title: Km 28
 title_type: repository
-id: 687J83G6+W8C
+id: 687J83G6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

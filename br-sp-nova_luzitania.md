@@ -1,7 +1,7 @@
 ---
 title: Nova Luzitânia
 title_type: repository
-id: 58FF4PVQ+J62
+id: 58FF4PVQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

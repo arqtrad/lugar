@@ -1,7 +1,7 @@
 ---
 title: Col. R. Soya
 title_type: repository
-id: 673G5PXM+377
+id: 673G5PXM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

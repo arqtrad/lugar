@@ -1,7 +1,7 @@
 ---
 title: Duque Bacelar
 title_type: repository
-id: 687VR3X4+M3G
+id: 687VR3X4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

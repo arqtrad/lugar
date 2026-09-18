@@ -1,7 +1,7 @@
 ---
 title: Correio
 title_type: repository
-id: 59W372QQ+2GH
+id: 59W372QQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

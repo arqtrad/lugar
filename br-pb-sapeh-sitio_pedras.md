@@ -1,7 +1,7 @@
 ---
 title: Sítio Pedras
 title_type: repository
-id: 69562RP5+X89
+id: 69562RP5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

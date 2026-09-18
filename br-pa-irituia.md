@@ -1,7 +1,7 @@
 ---
 title: Irituia
 title_type: repository
-id: 68CJ6HG5+VRC
+id: 68CJ6HG5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

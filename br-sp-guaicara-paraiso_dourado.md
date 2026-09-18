@@ -1,7 +1,7 @@
 ---
 title: Paraíso Dourado
 title_type: repository
-id: 58CGG8F3+7PG
+id: 58CGG8F3+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

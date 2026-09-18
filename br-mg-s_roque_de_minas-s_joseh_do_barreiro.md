@@ -1,7 +1,7 @@
 ---
 title: São José do Barreiro
 title_type: repository
-id: 58FMMG48+2F6
+id: 58FMMG48+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

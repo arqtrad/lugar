@@ -1,7 +1,7 @@
 ---
 title: Lagoa do Barro
 title_type: repository
-id: 684X6JJJ+JPH
+id: 684X6JJJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

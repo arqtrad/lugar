@@ -1,7 +1,7 @@
 ---
 title: Bandeirantes
 title_type: repository
-id: 58RF8662+JHM
+id: 58RF8662+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

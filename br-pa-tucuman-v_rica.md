@@ -1,7 +1,7 @@
 ---
 title: Vila Rica
 title_type: repository
-id: 685C3QJ4+J4C
+id: 685C3QJ4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

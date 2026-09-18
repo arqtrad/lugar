@@ -1,7 +1,7 @@
 ---
 title: Pedra do Rumo
 title_type: repository
-id: 687QQ77H+R66
+id: 687QQ77H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

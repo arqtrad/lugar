@@ -1,7 +1,7 @@
 ---
 title: Curral Alto
 title_type: repository
-id: 48V9366M+FRR
+id: 48V9366M+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

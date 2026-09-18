@@ -1,7 +1,7 @@
 ---
 title: Bonfinópolis
 title_type: repository
-id: 58MH92HJ+849
+id: 58MH92HJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

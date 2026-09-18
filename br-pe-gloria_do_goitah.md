@@ -1,7 +1,7 @@
 ---
 title: Glória do Goitá
 title_type: repository
-id: 6936XPX4+296
+id: 6936XPX4+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

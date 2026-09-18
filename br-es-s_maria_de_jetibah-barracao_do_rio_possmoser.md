@@ -1,7 +1,7 @@
 ---
 title: Barracão do Rio Possmoser
 title_type: repository
-id: 58FXW4R6+W76
+id: 58FXW4R6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Quilombo de Mumbuca
 title_type: repository
-id: 58MXP2HG+3R7
+id: 58MXP2HG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

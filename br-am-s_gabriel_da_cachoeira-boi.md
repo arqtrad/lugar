@@ -1,7 +1,7 @@
 ---
 title: Boi
 title_type: repository
-id: 67FMJQV6+C22
+id: 67FMJQV6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Alegria
 title_type: repository
-id: 58GW33HH+GRW
+id: 58GW33HH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

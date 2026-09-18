@@ -1,7 +1,7 @@
 ---
 title: Sonora
 title_type: repository
-id: 58J7C68V+MG4
+id: 58J7C68V+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

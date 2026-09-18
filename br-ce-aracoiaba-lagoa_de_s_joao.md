@@ -1,7 +1,7 @@
 ---
 title: Lagoa de São João
 title_type: repository
-id: 6973J62W+4VF
+id: 6973J62W+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

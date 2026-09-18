@@ -1,7 +1,7 @@
 ---
 title: Ruinha dos Três Braços
 title_type: repository
-id: 59Q2CCMX+4Q7
+id: 59Q2CCMX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

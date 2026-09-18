@@ -1,7 +1,7 @@
 ---
 title: Zortéa
 title_type: repository
-id: 584CGCVX+R53
+id: 584CGCVX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

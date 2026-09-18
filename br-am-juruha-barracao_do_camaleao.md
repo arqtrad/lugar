@@ -1,7 +1,7 @@
 ---
 title: Barracão do Camaleão
 title_type: repository
-id: 679P8664+84P
+id: 679P8664+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

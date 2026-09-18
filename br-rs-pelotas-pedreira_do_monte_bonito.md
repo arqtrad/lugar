@@ -1,7 +1,7 @@
 ---
 title: Pedreira do Monte Bonito
 title_type: repository
-id: 48W99H3Q+HMJ
+id: 48W99H3Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Vencedor
 title_type: repository
-id: 679MVGXX+863
+id: 679MVGXX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

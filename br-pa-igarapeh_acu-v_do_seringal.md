@@ -1,7 +1,7 @@
 ---
 title: Vila do Seringal
 title_type: repository
-id: 68CJXH7H+47J
+id: 68CJXH7H+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Mazagão
 title_type: repository
-id: 6973G43Q+8VR
+id: 6973G43Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

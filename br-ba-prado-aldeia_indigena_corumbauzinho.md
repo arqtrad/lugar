@@ -1,7 +1,7 @@
 ---
 title: Aldeia Indígena Corumbauzinho
 title_type: repository
-id: 59M24P42+XCP
+id: 59M24P42+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

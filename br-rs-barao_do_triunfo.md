@@ -1,7 +1,7 @@
 ---
 title: Barão do Triunfo
 title_type: repository
-id: 48XCJ756+RWR
+id: 48XCJ756+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

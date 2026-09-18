@@ -1,7 +1,7 @@
 ---
 title: Seringal São Salvador
 title_type: repository
-id: 674J8RCC+8V9
+id: 674J8RCC+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

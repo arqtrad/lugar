@@ -1,7 +1,7 @@
 ---
 title: Cavalo Morto
 title_type: repository
-id: 58QW3X45+WHQ
+id: 58QW3X45+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

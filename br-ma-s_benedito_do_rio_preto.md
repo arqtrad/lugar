@@ -1,7 +1,7 @@
 ---
 title: São Benedito do Rio Preto
 title_type: repository
-id: 688RMFFG+973
+id: 688RMFFG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Lagoa Sêca
 title_type: repository
-id: 685W3G37+2P4
+id: 685W3G37+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

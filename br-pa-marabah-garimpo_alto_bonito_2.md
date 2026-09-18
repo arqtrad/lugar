@@ -1,7 +1,7 @@
 ---
 title: Garimpo Alto Bonito 2
 title_type: repository
-id: 686F5Q37+P5F
+id: 686F5Q37+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

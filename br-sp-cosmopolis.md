@@ -1,7 +1,7 @@
 ---
 title: Cosmópolis
 title_type: repository
-id: 589J9R33+JJ2
+id: 589J9R33+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

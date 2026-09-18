@@ -1,7 +1,7 @@
 ---
 title: Comunidade São Judas Tadeu
 title_type: repository
-id: 58HX4QXF+WX6
+id: 58HX4QXF+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

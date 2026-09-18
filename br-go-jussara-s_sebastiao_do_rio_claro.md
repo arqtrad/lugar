@@ -1,7 +1,7 @@
 ---
 title: São Sebastião do Rio Claro
 title_type: repository
-id: 58PC7G6R+87X
+id: 58PC7G6R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

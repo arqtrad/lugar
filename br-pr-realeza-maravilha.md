@@ -1,7 +1,7 @@
 ---
 title: Maravilha
 title_type: repository
-id: 58687GQ9+4FC
+id: 58687GQ9+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

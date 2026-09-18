@@ -1,7 +1,7 @@
 ---
 title: Destilaria São Gonçalo
 title_type: repository
-id: 6926XP57+6R7
+id: 6926XP57+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

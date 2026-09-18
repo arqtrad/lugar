@@ -1,7 +1,7 @@
 ---
 title: Assentamento Bela Vista
 title_type: repository
-id: 697438WQ+J6W
+id: 697438WQ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

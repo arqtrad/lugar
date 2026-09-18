@@ -1,7 +1,7 @@
 ---
 title: Presidente Kennedy
 title_type: repository
-id: 586953JM+J8J
+id: 586953JM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

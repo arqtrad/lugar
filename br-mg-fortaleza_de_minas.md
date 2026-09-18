@@ -1,7 +1,7 @@
 ---
 title: Fortaleza de Minas
 title_type: repository
-id: 58FM572Q+87X
+id: 58FM572Q+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

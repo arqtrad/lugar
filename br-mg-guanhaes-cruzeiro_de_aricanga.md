@@ -1,7 +1,7 @@
 ---
 title: Cruzeiro de Aricanga
 title_type: repository
-id: 58HV54M2+FWM
+id: 58HV54M2+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

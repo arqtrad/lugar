@@ -1,7 +1,7 @@
 ---
 title: Seringal Cantagalo
 title_type: repository
-id: 674F77PX+G7X
+id: 674F77PX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

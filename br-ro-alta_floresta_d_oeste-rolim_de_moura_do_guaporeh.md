@@ -1,7 +1,7 @@
 ---
 title: Rolim de Moura do Guaporé
 title_type: repository
-id: 57RVWP8F+J38
+id: 57RVWP8F+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

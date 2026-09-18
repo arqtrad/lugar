@@ -1,7 +1,7 @@
 ---
 title: Vila Moderna
 title_type: repository
-id: 67HX3RJ6+P3V
+id: 67HX3RJ6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

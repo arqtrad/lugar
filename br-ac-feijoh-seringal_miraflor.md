@@ -1,7 +1,7 @@
 ---
 title: Seringal Miraflor
 title_type: repository
-id: 673FJRCJ+5GP
+id: 673FJRCJ+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Estrela do Indaiá
 title_type: repository
-id: 58GPF6G6+RQH
+id: 58GPF6G6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

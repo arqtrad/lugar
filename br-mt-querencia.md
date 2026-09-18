@@ -1,7 +1,7 @@
 ---
 title: Querência
 title_type: repository
-id: 58V9CQ4R+8RW
+id: 58V9CQ4R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Seringal Ceará
 title_type: repository
-id: 675F5979+H2M
+id: 675F5979+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

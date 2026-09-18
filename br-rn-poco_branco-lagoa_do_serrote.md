@@ -1,7 +1,7 @@
 ---
 title: Lagoa do Serrote
 title_type: repository
-id: 6966C8C5+RCF
+id: 6966C8C5+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

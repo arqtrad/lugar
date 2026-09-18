@@ -1,7 +1,7 @@
 ---
 title: Aldeia Indígena Karugwa e Aldeia Indígena Ywy Pyhaú
 title_type: repository
-id: 588G9CW7+P6M
+id: 588G9CW7+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

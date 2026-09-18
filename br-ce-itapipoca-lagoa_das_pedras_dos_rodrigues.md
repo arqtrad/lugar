@@ -1,7 +1,7 @@
 ---
 title: Lagoa das Pedras dos Rodrigues
 title_type: repository
-id: 6982GHG6+8W2
+id: 6982GHG6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

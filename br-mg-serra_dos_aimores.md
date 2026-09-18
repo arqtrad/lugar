@@ -1,7 +1,7 @@
 ---
 title: Serra dos Aimorés
 title_type: repository
-id: 58JX6Q74+8MW
+id: 58JX6Q74+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Nova Aurora
 title_type: repository
-id: 58PV38VH+HH4
+id: 58PV38VH+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

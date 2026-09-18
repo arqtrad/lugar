@@ -1,7 +1,7 @@
 ---
 title: Santa Bárbara
 title_type: repository
-id: 687W6C8R+886
+id: 687W6C8R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

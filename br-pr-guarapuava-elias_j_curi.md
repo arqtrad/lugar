@@ -1,7 +1,7 @@
 ---
 title: Elias J. Curi
 title_type: repository
-id: 586CJJXM+934
+id: 586CJJXM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

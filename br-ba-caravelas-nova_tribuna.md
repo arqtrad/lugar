@@ -1,7 +1,7 @@
 ---
 title: Nova Tribuna
 title_type: repository
-id: 59J294MM+683
+id: 59J294MM+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

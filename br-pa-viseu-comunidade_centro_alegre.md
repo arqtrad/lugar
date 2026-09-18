@@ -1,7 +1,7 @@
 ---
 title: Comunidade Centro Alegre
 title_type: repository
-id: 68CMRM2X+MM3
+id: 68CMRM2X+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

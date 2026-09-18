@@ -1,7 +1,7 @@
 ---
 title: Comunidade Quilombola Santa Cruz
 title_type: repository
-id: 584H28G6+HWH
+id: 584H28G6+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

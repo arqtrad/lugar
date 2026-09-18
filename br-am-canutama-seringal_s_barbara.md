@@ -1,7 +1,7 @@
 ---
 title: Seringal Santa Bárbara
 title_type: repository
-id: 675Q298W+R75
+id: 675Q298W+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

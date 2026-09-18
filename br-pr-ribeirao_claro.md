@@ -1,7 +1,7 @@
 ---
 title: Ribeirão Claro
 title_type: repository
-id: 588GR64R+CR2
+id: 588GR64R+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Palmeiras de Goiás
 title_type: repository
-id: 58MG53PG+Q2R
+id: 58MG53PG+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

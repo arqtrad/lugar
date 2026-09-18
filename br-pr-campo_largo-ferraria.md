@@ -1,7 +1,7 @@
 ---
 title: Ferraria
 title_type: repository
-id: 586GGHPV+8W3
+id: 586GGHPV+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

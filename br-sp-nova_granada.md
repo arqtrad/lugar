@@ -1,7 +1,7 @@
 ---
 title: Nova Granada
 title_type: repository
-id: 58FGFM8P+CC2
+id: 58FGFM8P+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

@@ -1,7 +1,7 @@
 ---
 title: Veríssimo
 title_type: repository
-id: 58GH8MPR+RR2
+id: 58GH8MPR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

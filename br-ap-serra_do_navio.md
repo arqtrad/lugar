@@ -1,7 +1,7 @@
 ---
 title: Serra do Navio
 title_type: repository
-id: 68G9VXXX+VRH
+id: 68G9VXXX+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

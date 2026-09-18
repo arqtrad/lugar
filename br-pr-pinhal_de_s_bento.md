@@ -1,7 +1,7 @@
 ---
 title: Pinhal de São Bento
 title_type: repository
-id: 5858XG88+HCV
+id: 5858XG88+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

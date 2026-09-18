@@ -1,7 +1,7 @@
 ---
 title: Miraluz
 title_type: repository
-id: 58FG3856+63P
+id: 58FG3856+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

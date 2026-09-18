@@ -1,7 +1,7 @@
 ---
 title: Nova Vida
 title_type: repository
-id: 687QM8GR+X83
+id: 687QM8GR+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:

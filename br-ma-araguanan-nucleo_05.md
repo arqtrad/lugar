@@ -1,7 +1,7 @@
 ---
 title: Núcleo 05
 title_type: repository
-id: 688PX8W9+97Q
+id: 688PX8W9+
 date: 2026-07-29
 author: 0000-0002-0187-774X
 spatial:
